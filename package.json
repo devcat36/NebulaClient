@@ -1,0 +1,19 @@
+{
+  "name": "nebulaclient",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-interact": "^0.1.9",
+    "node-fetch": "^3.1.0",
+    "readline-sync": "^1.4.10",
+    "yaml": "^1.10.2"
+  }
+}
